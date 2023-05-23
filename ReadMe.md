@@ -52,6 +52,7 @@ In the first attempt at optimization, the ask amount column was binned into five
     - $100,000 to $1,000,000
     - $1,000,000 to $5,000,000
     - Over $5,000,000
+
 At least 70% of all entries are at requesting $5,000. These binned categories were chosen by arbitrary selection of ranges, and seeing how many of the values were within that range. 
 
 The get_dummies process was also applied to this feature. The # of neurons, layers, epochs and type of activation functions were not changed. The number of inputs were changed to 44 neurons. 
