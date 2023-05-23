@@ -29,7 +29,7 @@ In the initial model, the parameters are as follows:
 
 #### Initial Model
 
-In the initial model, 3 layers were chosen. Tht first two had 'relu' and the last one had 'sigmoid'. 
+In the initial model, 3 layers were chosen. The first two had 'relu' activation function and the last one had 'sigmoid' activation function. 
 
 * Layers: 3
     - Initial Layer: 43 inputs, 80 neurons, relu activation
